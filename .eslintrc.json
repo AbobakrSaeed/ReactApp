@@ -7,6 +7,5 @@
         "cypress/globals": true,
         "browser": true,
         "node": true
-    },
-    
+    }
 }
